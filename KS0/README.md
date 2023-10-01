@@ -3,9 +3,12 @@
 **Before proceeding, please read the [disclaimer](../DISCLAIMER.md)**
 
 # Option 1 - update via the webgui
-1. Grab the updated file [update.bgz](./files/update.bgz)
-    - SHA256: `DB3653235160DAA18FC051A90E065B99E8D067D390EB9FF718B6883E2DE7A826 update.bgz`
-2. Navigate to webgui - Firmware Upgrade page
+1. Grab the updated file from [here](./files/) and upload to the miner via the webgui.
+    - SHA256: 
+        - `DB3653235160DAA18FC051A90E065B99E8D067D390EB9FF718B6883E2DE7A826 update160.bgz`
+        - `5BD179F4E81C826D76D78DC7CEEE678BCDB9C2E1E0741C77A21890E13FD9EC9F update140.bgz`
+        - `F225BB3CE19EDEB5311D7420E8AA47FC7722975378474C0ED8CD5751976E33E1 update120.bgz`
+2. We recommend starting with the update160.bgz file as it has the highest hashrate.  If you experience any under hashing issues, try the update140.bgz file.  If you further experience any under hashing issues that are under 80GH/s, try the update120.bgz file.
 3. Select the update.bgz file and from your local machine and click update.
 4. Follow the prompts to reboot.
 5. After about 2-5 minutes the webgui should be accessible again.  Miner hashrate will range bw 140-160 GH/s depending on silicon lottery.

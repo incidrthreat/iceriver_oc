@@ -24,5 +24,4 @@
 Below are a few links to some power supplies that have been tested and confirmed to work with the KS0 Overclock.
 - Laptop charger for Asus 180w 19.5v - https://amzn.to/3REhwLC
 - Laptop charger for Asus 150w 19.5v - https://amzn.to/3PYqEcX
-- Laptop charger for HP Envy 120w 19.5v - https://amzn.to/3PWw9Zo
 - Laptop charger for MSI 150w 19.5v - https://amzn.to/3Pwy1Xw

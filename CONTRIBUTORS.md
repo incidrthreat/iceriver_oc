@@ -6,6 +6,7 @@ To start this off, we would like to thank the following people for their contrib
 - Pbfamer
 - Jo Throttle
 - Onslivion
+- Cooljock
 - mcmickburns
 
 _____________________

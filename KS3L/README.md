@@ -6,3 +6,7 @@ While we did this out of excessive nerdy drive to learn and poke, we are not cha
 
 -----------------------------------------
 Before proceeding, please read the [disclaimer](../DISCLAIMER.md).
+
+# Webgui update release from us is a work in progress and will be released soon after testing is complete.  Please check back soon.
+
+If you would like to update your KS3L using the eclipse IDE, please follow the directions [here](https://github.com/mcmickburns/iceriverminer_dump#converting-ks3l-to-ks3m).  Please do keep in mind if you updated to Iceriver's latest firmware this method will revert you back to version 0808 firmware for the KS3M and to the 0823 miner release.

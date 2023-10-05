@@ -12,7 +12,8 @@ To start this off, we would like to thank the following people for their contrib
 - mtbill - KS3L OC Tester
 - yds - KS3L OC Tester
 - makinko - KS3L OC Tester
-- Mhitewolff88 - KS3L OC Tester
+- Whitewolff88 - KS3L OC Tester
+- Komodo - KS3L OC Tester
 - mcmickburns - Eclipse setup/walkthrough
 
 _____________________

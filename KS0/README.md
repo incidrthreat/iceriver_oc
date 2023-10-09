@@ -9,10 +9,10 @@ While we did this out of excessive nerdy drive to learn and poke, we are not cha
 # Update via the webgui
 1. Grab the updated file from [here](./files/) and upload to the miner via the webgui.
     - SHA256: 
-        - `DB3653235160DAA18FC051A90E065B99E8D067D390EB9FF718B6883E2DE7A826 update160.bgz`
-        - `640806A57235EFF14054798F41EB61164A1A46CD0AF158A596765FA8AFD68387 update150.bgz`
-        - `5BD179F4E81C826D76D78DC7CEEE678BCDB9C2E1E0741C77A21890E13FD9EC9F update140.bgz`
-        - `F225BB3CE19EDEB5311D7420E8AA47FC7722975378474C0ED8CD5751976E33E1 update120.bgz`
+        - `505B260AAC0D2C8ADB2A8EDE92951A5D7C1383DBD2D690568A09E41855FA6F37       update120.bgz`
+        - `5142206B6AD5706C0D9D7BEFCA961A3C4B711ED6D12F0C2BDF8344EF8187C785       update140.bgz`
+        - `71B361F90C9587FB3655DA9D4CBBDC5FC47F3F1050902917D0FC5FE032064959       update150.bgz`
+        - `69557167DC490588A363989E2AF72C99686A4F459A535B2AAAE5D96D8C607924       update160.bgz`
 2. We recommend starting with the update160.bgz file as it has the highest hashrate.  If you experience any under hashing issues, try the update140.bgz file.  If you further experience any under hashing issues that are under 80GH/s, try the update120.bgz file.
 3. Select the file from your local machine and click update.
 4. Follow the prompts to reboot.

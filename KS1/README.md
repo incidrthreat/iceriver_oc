@@ -9,7 +9,7 @@ While we did this out of excessive nerdy drive to learn and poke, we are not cha
 # Update via the webgui
 1. Grab the updated file from [here](./files/) and upload to the miner via the webgui.
     - SHA256: 
-        - `583067FC74B6852829BD9894E7D42FF89D98FF7492F83C9D7E11BD1FA5F8975C     ks1update25.bgz`
+        - `7138381F8337FA9D3CAE88D3B8B9481319894804A146E4EE08C014E551B8EE24     KS1update25.bgz`
 2. Select the file from your local machine and click update.
 3. Follow the prompts to reboot.
 4. After about 2-5 minutes the webgui should be accessible again.  Miner hashrate will range bw 1180-1230 GH/s depending on silicon lottery.

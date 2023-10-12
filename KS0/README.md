@@ -24,7 +24,7 @@ While we did this out of excessive nerdy drive to learn and poke, we are not cha
 
 #### Below are a few links to some equipment that has been tested and confirmed to work with the KS0.
 - Power Bricks/PSUs:
-    - Laptop charger for Asus 180w 19.5v - https://amzn.to/3REhwLC
+    - Laptop charger for Asus 180w 19.5v - https://amzn.to/3PWhoF3
     - Laptop charger for Asus 150w 19.5v - https://amzn.to/3PYqEcX
     - Laptop charger for MSI 150w 19.5v - https://amzn.to/3Pwy1Xw
 - Fans

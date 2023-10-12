@@ -30,3 +30,5 @@ While we did this out of excessive nerdy drive to learn and poke, we are not cha
 - Fans
     - AC Infinity MULTIFAN S3 (USB) - https://amzn.to/3F2oxP2
     - Noctua NF-F12 5V (USB) - https://amzn.to/46br6Ko
+- Hardware
+    - Extra long Screws for USB Fan - https://amzn.to/3LZFKMW

@@ -7,7 +7,7 @@ While we did this out of excessive nerdy drive to learn and poke, we are not cha
 -----------------------------------------
 Before proceeding, please read the [disclaimer](../DISCLAIMER.md).
 -----------------------------------------
-After extensive testing with positive results we are releasing the KS3L OC that is available via the webgui.  We really apprciate all our testers and everyone who contributed.
+After extensive testing with positive results we are releasing the KS3L OC that is available via the webgui.  We really apprciate all our testers and everyone who contributed. If you have overclocked your KS3L using the mcmickburns method, you should undo the changes you have made before applying this update.  If you have not overclocked your KS3L, you can apply this update without any issues.  If you have any questions, please reach out to us on the Kaspa discord.
 
 **Please, Please, Please!** Ensure you have a 3400w PSU (can be 2 fan or 3 fan) and at least a 20A circuit, power cable, and outlet to run this OC.  It will draw more amps and require more cooling.  We are not responsible for any damage to your miner or home.  Please read the disclaimer.
 

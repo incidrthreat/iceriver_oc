@@ -1,5 +1,5 @@
 # Iceriver KS0 Overclocking
-We have so many people to thank for contributing to this project they are listed [here](./CONTRIBUTORS.md).  
+We have so many people to thank for contributing to this project they are listed [here](../CONTRIBUTORS.md).  
 
 While we did this out of excessive nerdy drive to learn and poke, we are not charging for this information or the modded binaries. Donations are always welcome and appreciated, but not necessary.  If you would like to donate, please send KAS to the following address:
 `kaspa:qq3jzvq6jlapzjhngfj6m28cs8uq4ha47kcazauaaxt5ethw56p0xpq7pwnfa`
@@ -27,7 +27,7 @@ While we did this out of excessive nerdy drive to learn and poke, we are not cha
     - Laptop charger for Asus 180w 19.5v - https://amzn.to/3PWhoF3
     - Laptop charger for Asus 150w 19.5v - https://amzn.to/3PYqEcX
     - Laptop charger for MSI 150w 19.5v - https://amzn.to/3Pwy1Xw
-- Fans
+- Cooling
     - AC Infinity MULTIFAN S3 (USB) - https://amzn.to/3F2oxP2
     - Noctua NF-F12 5V (USB) - https://amzn.to/46br6Ko
 - Hardware

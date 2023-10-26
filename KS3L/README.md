@@ -42,3 +42,7 @@ After extensive testing with positive results we are releasing the KS3L OC that 
         - 4 Inch: https://amzn.to/3FluDdv
         - 6 Inch: https://amzn.to/471ovTv
         - 8 Inch: https://amzn.to/3M8lxUZ
+- Books
+    - The Bitcoin Standard - https://amzn.to/3tPY3Op
+    - The Book of Kaspa: Realizing the Nakamoto Dream - https://amzn.to/3s6UPWe
+    - The Rust Programming Language - https://amzn.to/3FwdGwU

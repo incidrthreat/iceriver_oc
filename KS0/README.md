@@ -32,3 +32,7 @@ While we did this out of excessive nerdy drive to learn and poke, we are not cha
     - Noctua NF-F12 5V (USB) - https://amzn.to/46br6Ko
 - Hardware
     - Extra long Screws for USB Fan - https://amzn.to/3LZFKMW
+- Books
+    - The Bitcoin Standard - https://amzn.to/3tPY3Op
+    - The Book of Kaspa: Realizing the Nakamoto Dream - https://amzn.to/3s6UPWe
+    - The Rust Programming Language - https://amzn.to/3FwdGwU

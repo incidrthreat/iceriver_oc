@@ -16,6 +16,8 @@ While we did this out of excessive nerdy drive to learn and poke, we are not cha
 
 We are working on a 40% bump as well, so stay tuned for that.
 
+-----------------------------------------
+
 ## Tangem Wallet
 We highly recommend using a Tangem wallet for your Kaspa cold storage needs.  Tangem started with the idea of bringing digital assets to the masses using a unique combination of a smartcard-based hardware wallet and mobile applications.  They have been around since 2017 and are a trusted partner of Kaspa and have been a great supporter of the Kaspa community.  You can find out more about Tangem and their products at https://tangem.com.  Consider using our **promo code** to get 10% off your next order: `3ZWFJD`
 

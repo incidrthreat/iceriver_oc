@@ -14,6 +14,8 @@ While we did this out of excessive nerdy drive to learn and poke, we are not cha
 3. Follow the prompts to reboot.
 4. After about 2-5 minutes the webgui should be accessible again.  Miner hashrate will range bw 2300-2600 GH/s depending on silicon lottery.
 
+-----------------------------------------
+
 ## Tangem Wallet
 We highly recommend using a Tangem wallet for your Kaspa cold storage needs.  Tangem started with the idea of bringing digital assets to the masses using a unique combination of a smartcard-based hardware wallet and mobile applications.  They have been around since 2017 and are a trusted partner of Kaspa and have been a great supporter of the Kaspa community.  You can find out more about Tangem and their products at https://tangem.com.  Consider using our **promo code** to get 10% off your next order: `3ZWFJD`
 

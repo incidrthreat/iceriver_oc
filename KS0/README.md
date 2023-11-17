@@ -30,11 +30,16 @@ We highly recommend using a Tangem wallet for your Kaspa cold storage needs.  Ta
 #### Below are a few links to some equipment that has been tested and confirmed to work with the KS0.
 - Power Bricks/PSUs:
     - Laptop charger for Asus 180w 19.5v - https://amzn.to/3PWhoF3
+    - Laptop charger for Asus 180w 19.5v - https://amzn.to/3ulmPpI (alternative)
     - Laptop charger for Asus 150w 19.5v - https://amzn.to/3PYqEcX
     - Laptop charger for MSI 150w 19.5v - https://amzn.to/3Pwy1Xw
 - Cooling
-    - AC Infinity MULTIFAN S3 (USB) - https://amzn.to/3F2oxP2
-    - Noctua NF-F12 5V (USB) - https://amzn.to/46br6Ko
+    - AC Infinity MULTIFAN S3 120mm (USB) - https://amzn.to/3F2oxP2
+    - AC Infinity BLOWERFAN S2 120mm (USB)- https://amzn.to/3QZRjXb
+    - AC Infinity MULTIFAN S4 140mm (USB) - https://amzn.to/3sD4jc0
+        - slightly larger than the S3 fan
+        - does not line up with pre-drilled holes
+    - Noctua NF-F12 120mm 5V (USB) - https://amzn.to/46br6Ko
 - Hardware
     - Extra long Screws for USB Fan - https://amzn.to/3LZFKMW
 - Books

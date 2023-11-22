@@ -40,6 +40,8 @@ We highly recommend using a Tangem wallet for your Kaspa cold storage needs.  Ta
         - slightly larger than the S3 fan
         - does not line up with pre-drilled holes
     - Noctua NF-F12 120mm 5V (USB) - https://amzn.to/46br6Ko
+    - USB to 3-Pin / 4-Pin PWM 5V - https://amzn.to/3GansoD
+        - If you already have a 3 or 4 pin fan, you can use this to power it via USB
 - Hardware
     - Extra long Screws for USB Fan - https://amzn.to/3LZFKMW
 - Books

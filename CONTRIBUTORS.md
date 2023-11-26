@@ -21,6 +21,7 @@ To start this off, we would like to thank the following people for their contrib
 - kaspawhale.com - KS0 OC Tester
 - BlessedNoob - KS0 OC Tester
 - ChuckDanger87 - KS0 OC Tester
+- chronos - network troubleshooter
 - mcmickburns - [Eclipse setup/walkthrough](./ECLIPSE.md)
 
 _____________________

@@ -29,7 +29,7 @@ We highly recommend using a Tangem wallet for your Kaspa cold storage needs.  Ta
 #### Below are a few links to some equipment that has been tested and confirmed to work with the KS3/KS3L/KS3M to help reduce temperatures and noise levels.
 
 - Cooling
-    - AC Infinity Cloudline Pro Exhaust Fans
+    - AC Infinity Cloudline Inline Fans
         - 4 Inch
             - S4: https://amzn.to/3FqEDlO
             - T4: https://amzn.to/3tEKS2F (w/ Temperature Humidity VPD Controller and WiFi Integrated App Control)
@@ -37,6 +37,7 @@ We highly recommend using a Tangem wallet for your Kaspa cold storage needs.  Ta
             - S6: https://amzn.to/3QpLD8M
             - T6: https://amzn.to/3tCR638 (w/ Temperature Humidity VPD Controller and WiFi Integrated App Control)
         - 8 Inch: 
+            - A8: https://amzn.to/3sO4em0
             - S8: https://amzn.to/3Q5vm7j
             - T8: https://amzn.to/406fLcA (w/ Temperature Humidity VPD Controller and WiFi Integrated App Control)
     - Fruition Designs Iceriver KS Series fan shrouds
@@ -46,6 +47,15 @@ We highly recommend using a Tangem wallet for your Kaspa cold storage needs.  Ta
         - 4 Inch: https://amzn.to/3FluDdv
         - 6 Inch: https://amzn.to/471ovTv
         - 8 Inch: https://amzn.to/3M8lxUZ
+- Power Cords
+    - Wall/Outlet
+        - EU-C19 (16A 250v): https://amzn.to/3R4eZZt
+        - UK-C19 (13A 250v): https://amzn.to/47XajLB
+        - NEMA 6-20P to IEC C19 (20A 250v): https://amzn.to/4a2kT5L
+        - NEMA L6-20P to C19 (20A 250v): https://amzn.to/3GJ83MF
+    - PDU (Power Distribution Units)
+        - C20 to C19 (20A 12AWG 3ft): https://amzn.to/3uHHtRd
+        - C20 to C19 (20A 12AWG 6ft): https://amzn.to/3GlfwkN
 - Books
     - The Bitcoin Standard - https://amzn.to/3tPY3Op
     - The Book of Kaspa: Realizing the Nakamoto Dream - https://amzn.to/3s6UPWe

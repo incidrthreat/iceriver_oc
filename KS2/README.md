@@ -43,6 +43,10 @@ We highly recommend using a Tangem wallet for your Kaspa cold storage needs.  Ta
         - 4 Inch: https://amzn.to/3FluDdv
         - 6 Inch: https://amzn.to/471ovTv
         - 8 Inch: https://amzn.to/3M8lxUZ
+    - AC Infinity Noise Reduction Clamp
+        - 4 Inch: https://amzn.to/3GyDAkb
+        - 6 Inch: https://amzn.to/4a8T9fQ
+        - 8 Inch: https://amzn.to/3Rx7cVk
 - Books
     - The Bitcoin Standard - https://amzn.to/3tPY3Op
     - The Book of Kaspa: Realizing the Nakamoto Dream - https://amzn.to/3s6UPWe

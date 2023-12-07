@@ -47,6 +47,10 @@ We highly recommend using a Tangem wallet for your Kaspa cold storage needs.  Ta
         - 4 Inch: https://amzn.to/3FluDdv
         - 6 Inch: https://amzn.to/471ovTv
         - 8 Inch: https://amzn.to/3M8lxUZ
+    - AC Infinity Noise Reduction Clamp
+        - 4 Inch: https://amzn.to/3GyDAkb
+        - 6 Inch: https://amzn.to/4a8T9fQ
+        - 8 Inch: https://amzn.to/3Rx7cVk
 - Power Cords
     - Wall/Outlet
         - EU-C19 (16A 250v): https://amzn.to/3R4eZZt
